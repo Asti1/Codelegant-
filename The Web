@@ -1,0 +1,29 @@
+Introduction to THE WEB
+-----------------------
+What is the WEB? 
+Also known as World wide web.
+The web is everywhere! It is a collection of web pages stored in web servers, it contains information that can be accessed by the users via the internet. 
+For example: Whenever you open Google Chrome, the page you see is known as a web page,  this page is linked with many other pages, so whenever you search something you are directed to that page, hence constituting The Web. 
+-----------------------
+What is the web page Made of? 
+The web page is made up of 3 technologies/languages.
+HTML : This makes the skeleton of the web page. All the texts, images, tables you see on the web page are made using the HTML language.
+CSS : This language is used for styling the elements on the web. The colours, the boldness and effects you see are all made using CSS .
+JavaScript: This language is used to program the brain of the web page i.e. how it reacts when you perform an action on it. 
+-----------------------
+How does a website work? 
+Website works on a series of different operations.
+Each website has a URL(Uniform Resource Locator), which is a unique name/nickname that is given to a website. This URL is entered by the user in a search bar of a web browser to access the website. Whenever it is entered, the browser sends a HTTP(Hyper Text Transfer Protocol) request to a DNS(Domain Name 
+Server).
+DNS translates this URL to its specific IP Address. This IP Address is the real unique identity/real numeric name of that particular website. It is then sent to the Server that generates the website corresponding to the same and sends it to the browser to display.
+These operations take place in milli seconds, providing user no sense of lag if he/she has a fast internet.
+----------------------
+Versions of the web.
+There are 3 versions of web.
+WEB 1.0 : These were early days websites that were static and could not be changed, they only provided information for the user to read. 
+WEB 2.0 : Also known as the Social Web, is the one that incorporated users to interact with the World Wide Web and upload their content enhancing the capability, creativity and increasing communication amongst users on the internet.
+WEB 3.0 : It is the most advance version of the web until now, it provides more dynamic and interactive experience to user and involve AI, blockchain and cryptocurrencies and the implementation of decentralisation. 
+---------------------
+
+For more Content follow this repository and instagram @Codelegant. 
+For more exploration you can follow these resources: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
