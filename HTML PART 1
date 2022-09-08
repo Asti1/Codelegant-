@@ -1,0 +1,28 @@
+HTML
+--------------------
+What is HTML?
+(Hypertext MarkUp Language)
+HTML is scripting language that is used to create web pages on the WWW. This is the most basic building block of the various huge websites, Every website you open is structured using HTML first, it acts like a skeleton of the webpage.
+--------------------
+Elements in HTML.
+HTML document consists of a series of elements, which one uses to enclose, wrap or mark up different parts of content to make them appear or act in a certain way.
+These elements are always enclosed in tags denoting the basic syntax of the language. Tags are always enclosed in angular brackets and are not case sensitive.
+--------------------
+HTML Document.
+Every html file starts with <!DOCTYPE html> which will tell the browser that this is an html file that has to be parsed. The whole HTML document content after the declaration of type of document in enclosed within <html></html> element. The sub elements that come under are <head></head> and <body></body>. 
+--------------------
+Basic Tags.
+<head> </head>: This element contains the title, meta tags and CSS links for the html document.
+<body></body>: This element contains all the content that will be visible on the page like text, images, links, tables etc.
+The above tags are necessary to be included in the <html></html> element even if there is nothing in the content of them.
+<title></title>: This element is used to give the content or text in the tab of the browser. Like www.google.com has ‘Google’ as its title.
+--------------------
+Headings in HTML.
+Headings are of different font size hence depicting different emphasis. The first line or title of a webpage is always <h1></h1> heading. This is the largest in font size and it explains the content that is going to be in that page. This is followed by <h2></h2>,<h3></h3>…. upto <h6></h6> all depicting different emphasis and decreasing order of font size. Each page can only have one <h1> heading. 
+--------------------
+Comments and Whitespace in HTML.
+Comments in HTML are denoted by <!— —> . These are used to note things in the code space. These are not parsed by any browser and it’s not visible on the webpage. 
+No matter how much whitespace you use inside HTML element content (which can include one or more space character, but also line breaks), the HTML parser reduces each sequence of whitespace to a single space when rendering the code.
+--------------------
+Hopefully you were able to understand the HTML5 and its basic tags! 
+--------------------
